@@ -15,6 +15,7 @@
     "Entity",
     "ELIXIR"
   ],
+  "ranks": [],
   "banner_names": [
     "Sin banner",
     "El Creador",
@@ -29,7 +30,16 @@
     "Elixir",
     "Yukι-Nαgαto"
   ],
-  "banner_file_order": [],
+  "banner_file_order": [
+    "admin_corona.png",
+    "Carmesi.png",
+    "corona_alex.png",
+    "dancer_corona.png",
+    "map_creator_corona.png",
+    "owner_corona.png",
+    "seguridad_corona.png",
+    "vip_corona.png"
+  ],
   "card_atlases": [],
   "rank_colors": {
     "Owner": "#c8a0ff",
