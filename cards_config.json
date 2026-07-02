@@ -1,0 +1,48 @@
+{
+  "card_cols": 8,
+  "card_rows": 4,
+  "ads_cols": 4,
+  "ads_rows": 2,
+  "ad_phrases": [
+    "Liarfps trackers",
+    "Publicidad"
+  ],
+  "banner_cols": 4,
+  "banner_rows": 4,
+  "card_filler": "",
+  "banner_filler": "",
+  "groups": [
+    "Entity",
+    "ELIXIR"
+  ],
+  "banner_names": [
+    "Sin banner",
+    "El Creador",
+    "Co-Fundadora",
+    "VIP",
+    "Partner",
+    "Entity",
+    "Owner",
+    "Seguridad",
+    "",
+    "VipManager",
+    "Elixir",
+    "Yukι-Nαgαto"
+  ],
+  "banner_file_order": [],
+  "card_atlases": [],
+  "rank_colors": {
+    "Owner": "#c8a0ff",
+    "Co-Fundador": "#a0c8ff",
+    "JefeDeSeguridad": "#d0d080",
+    "Mod": "#80d080",
+    "Partner": "#ffa080",
+    "Group": "#80e0e0",
+    "Friends": "#ffcc80",
+    "VipManager": "#ff80ff",
+    "VIPFurrys": "#ff80c0",
+    "SinBanner": "#606060",
+    "DJ": "#8080ff",
+    "Guest Dancer": "#909090"
+  }
+}
