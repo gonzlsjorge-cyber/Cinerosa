@@ -2,10 +2,10 @@
   "users": [
     {
       "id": "Cazadora UwU",
-      "rank": "Dancer",
+      "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 5,
       "card": 1
     },
     {
@@ -13,7 +13,7 @@
       "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 6,
       "card": 2
     },
     {
@@ -29,7 +29,7 @@
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 2,
       "card": 4
     },
     {
@@ -37,7 +37,7 @@
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 1,
       "card": 5
     },
     {
@@ -45,7 +45,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 6
     },
     {
@@ -53,7 +53,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 7
     },
     {
@@ -61,7 +61,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 8
     },
     {
@@ -69,7 +69,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 9
     },
     {
@@ -77,7 +77,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 10
     },
     {
@@ -85,7 +85,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 11
     },
     {
@@ -93,7 +93,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 12
     },
     {
@@ -101,7 +101,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 13
     },
     {
@@ -109,7 +109,7 @@
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 7,
       "card": 14
     },
     {
@@ -117,7 +117,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 15
     },
     {
@@ -125,7 +125,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 16
     },
     {
@@ -133,7 +133,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 17
     },
     {
@@ -141,7 +141,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 18
     },
     {
@@ -149,7 +149,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 19
     },
     {
@@ -157,7 +157,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 20
     },
     {
@@ -165,8 +165,16 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 0,
+      "banner": 4,
       "card": 21
+    },
+    {
+      "id": "Alex_AGAZ",
+      "rank": "Seguridad",
+      "group": "",
+      "phrase": "",
+      "banner": 4,
+      "card": 22
     }
   ],
   "ads": [

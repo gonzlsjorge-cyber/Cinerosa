@@ -15,7 +15,9 @@
     "Entity",
     "ELIXIR"
   ],
-  "ranks": [],
+  "ranks": [
+    "Vip"
+  ],
   "banner_names": [
     "Sin banner",
     "El Creador",
