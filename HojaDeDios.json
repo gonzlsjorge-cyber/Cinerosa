@@ -188,7 +188,35 @@
   "ads": [
     {
       "cell": 1,
-      "phrase": "Liarfps trackers"
+      "phrase": "Liarfps trackers 1"
+    },
+    {
+      "cell": 2,
+      "phrase": "apoyo (2)"
+    },
+    {
+      "cell": 3,
+      "phrase": "publicidad 3"
+    },
+    {
+      "cell": 4,
+      "phrase": "publicidad 4"
+    },
+    {
+      "cell": 5,
+      "phrase": "publicidad 5"
+    },
+    {
+      "cell": 6,
+      "phrase": "publicidad 6"
+    },
+    {
+      "cell": 7,
+      "phrase": "publicidad 7"
+    },
+    {
+      "cell": 8,
+      "phrase": "publicidad 8"
     }
   ]
 }
