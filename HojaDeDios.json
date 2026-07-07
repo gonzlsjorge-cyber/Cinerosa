@@ -5,176 +5,184 @@
       "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 5,
-      "card": 1
+      "banner": 3,
+      "card": 2
     },
     {
       "id": "Lexi_Cineru",
       "rank": "Owner",
       "group": "",
       "phrase": "",
-      "banner": 6,
-      "card": 2
+      "banner": 3,
+      "card": 1
     },
     {
       "id": "orochigamerlol",
       "rank": "Owner",
       "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 3
+      "phrase": "Banco",
+      "banner": 3,
+      "card": 9
     },
     {
       "id": "King Karmen",
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 2,
-      "card": 4
+      "banner": 4,
+      "card": 15
     },
     {
       "id": "-DanteDMC-",
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 1,
-      "card": 5
+      "banner": 4,
+      "card": 10
     },
     {
       "id": "Saltimbanki",
-      "rank": "Seguridad",
+      "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 6
+      "banner": 4,
+      "card": 3
     },
     {
       "id": "PaperFresh229",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 7
+      "banner": 5,
+      "card": 4
     },
     {
       "id": "ᴋʟᴀᴢᴢʏ",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 8
+      "banner": 5,
+      "card": 5
     },
     {
       "id": "Lalucia",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 9
+      "banner": 5,
+      "card": 6
     },
     {
       "id": "La Waifu ˸v",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 10
+      "banner": 5,
+      "card": 7
     },
     {
       "id": "Nazalosh",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 11
+      "banner": 5,
+      "card": 8
     },
     {
       "id": "Killery kitten",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 12
+      "banner": 5,
+      "card": 13
     },
     {
       "id": "PerroSovietico_",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 13
+      "banner": 5,
+      "card": 11
     },
     {
       "id": "Foxhunte",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 7,
-      "card": 14
+      "banner": 5,
+      "card": 12
     },
     {
       "id": "Pingüinito",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 15
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "Liarfps",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 16
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "༒orix_souls༒",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 17
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 18
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "Noimosyni",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 19
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "ForTodayDubs",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 20
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "sun_yon",
       "rank": "Dancer",
       "group": "",
       "phrase": "Dancer",
-      "banner": 4,
-      "card": 21
+      "banner": 6,
+      "card": 0
     },
     {
       "id": "Alex_AGAZ",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
-      "banner": 4,
-      "card": 22
+      "banner": 5,
+      "card": 0
+    },
+    {
+      "id": "Xenovix46",
+      "rank": "Seguridad",
+      "group": "",
+      "phrase": "",
+      "banner": 5,
+      "card": 14
     }
   ],
   "ads": [

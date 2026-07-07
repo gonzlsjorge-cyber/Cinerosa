@@ -32,14 +32,14 @@
     "Yukι-Nαgαto"
   ],
   "banner_file_order": [
-    "admin_corona.png",
-    "Carmesi.png",
-    "corona_alex.png",
-    "dancer_corona.png",
     "map_creator_corona.png",
+    "Carmesi.png",
     "owner_corona.png",
+    "admin_corona.png",
     "seguridad_corona.png",
-    "vip_corona.png"
+    "dancer_corona.png",
+    "vip_corona.png",
+    "corona_alex.png"
   ],
   "card_atlases": [],
   "rank_colors": {
