@@ -183,6 +183,22 @@
       "phrase": "",
       "banner": 5,
       "card": 14
+    },
+    {
+      "id": "vip1",
+      "rank": "Vip",
+      "group": "",
+      "phrase": "",
+      "banner": 7,
+      "card": 16
+    },
+    {
+      "id": "vip2",
+      "rank": "Vip",
+      "group": "",
+      "phrase": "",
+      "banner": 7,
+      "card": 17
     }
   ],
   "ads": [

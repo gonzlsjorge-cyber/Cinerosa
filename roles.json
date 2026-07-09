@@ -251,5 +251,27 @@
     "added": "2026-07-07",
     "expires": "",
     "photo": ""
+  },
+  {
+    "id": "vip1",
+    "rank": "Vip",
+    "group": "",
+    "phrase": "",
+    "banner": 7,
+    "card": 16,
+    "added": "2026-07-08",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "vip2",
+    "rank": "Vip",
+    "group": "",
+    "phrase": "",
+    "banner": 7,
+    "card": 17,
+    "added": "2026-07-08",
+    "expires": "",
+    "photo": ""
   }
 ]
