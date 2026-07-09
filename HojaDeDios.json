@@ -29,7 +29,7 @@
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 2,
+      "banner": 3,
       "card": 15
     },
     {
@@ -186,7 +186,7 @@
     },
     {
       "id": "vip1",
-      "rank": "Vip",
+      "rank": "Vips",
       "group": "",
       "phrase": "",
       "banner": 7,
@@ -194,11 +194,219 @@
     },
     {
       "id": "vip2",
-      "rank": "Vip",
+      "rank": "sin rango",
       "group": "",
       "phrase": "",
-      "banner": 7,
+      "banner": 0,
       "card": 17
+    },
+    {
+      "id": "vip3",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 18
+    },
+    {
+      "id": "vip4",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 19
+    },
+    {
+      "id": "vip5",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 20
+    },
+    {
+      "id": "vip6",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 21
+    },
+    {
+      "id": "vip7",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 22
+    },
+    {
+      "id": "vip8",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 23
+    },
+    {
+      "id": "vip9",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 24
+    },
+    {
+      "id": "vip10",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 25
+    },
+    {
+      "id": "vip11",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 26
+    },
+    {
+      "id": "vip12",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 27
+    },
+    {
+      "id": "vip13",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 28
+    },
+    {
+      "id": "vip14",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 29
+    },
+    {
+      "id": "vip15",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 30
+    },
+    {
+      "id": "vip16",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 31
+    },
+    {
+      "id": "vip17",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 32
+    },
+    {
+      "id": "vip18",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 33
+    },
+    {
+      "id": "vip19",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 34
+    },
+    {
+      "id": "dancer1",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 35
+    },
+    {
+      "id": "dancer2",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 36
+    },
+    {
+      "id": "dancer3",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 37
+    },
+    {
+      "id": "dancer4",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 38
+    },
+    {
+      "id": "dancer5",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 39
+    },
+    {
+      "id": "dancer6",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 40
+    },
+    {
+      "id": "dancer7",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 41
+    },
+    {
+      "id": "dancer8",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 42
+    },
+    {
+      "id": "dancer9",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 43
     }
   ],
   "ads": [
