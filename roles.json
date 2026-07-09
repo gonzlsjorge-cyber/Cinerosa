@@ -559,5 +559,49 @@
     "added": "2026-07-09",
     "expires": "",
     "photo": ""
+  },
+  {
+    "id": "foro de alianza cinerosa",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 44,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "foto de alianza velvet dusk",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 45,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "foto de alianza la corte de los curvos",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 46,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "dancer10",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 47,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
   }
 ]
