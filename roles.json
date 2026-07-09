@@ -603,5 +603,27 @@
     "added": "2026-07-09",
     "expires": "",
     "photo": ""
+  },
+  {
+    "id": "open night entrada",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 48,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "imagen en zona dancer",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 49,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
   }
 ]
