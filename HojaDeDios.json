@@ -57,20 +57,12 @@
       "card": 4
     },
     {
-      "id": "ᴋʟᴀᴢᴢʏ",
-      "rank": "Seguridad",
-      "group": "",
-      "phrase": "",
-      "banner": 5,
-      "card": 5
-    },
-    {
       "id": "Lalucia",
       "rank": "Seguridad",
       "group": "",
       "phrase": "",
       "banner": 5,
-      "card": 6
+      "card": 7
     },
     {
       "id": "La Waifu ˸v",
@@ -455,6 +447,14 @@
       "phrase": "",
       "banner": 0,
       "card": 49
+    },
+    {
+      "id": "seguridad disponible 5",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 5
     }
   ],
   "ads": [
