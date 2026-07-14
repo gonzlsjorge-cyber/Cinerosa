@@ -5,7 +5,7 @@
       "rank": "sin rango",
       "group": "",
       "phrase": "",
-      "banner": 1,
+      "banner": 0,
       "card": 2
     },
     {
@@ -21,7 +21,7 @@
       "rank": "Vips",
       "group": "",
       "phrase": "Banco",
-      "banner": 3,
+      "banner": 7,
       "card": 9
     },
     {
@@ -29,7 +29,7 @@
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 3,
+      "banner": 4,
       "card": 15
     },
     {
@@ -62,7 +62,7 @@
       "group": "",
       "phrase": "",
       "banner": 5,
-      "card": 7
+      "card": 6
     },
     {
       "id": "La Waifu ˸v",
@@ -85,7 +85,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "",
-      "banner": 5,
+      "banner": 6,
       "card": 13
     },
     {
@@ -426,10 +426,10 @@
     },
     {
       "id": "dancer10",
-      "rank": "sin rango",
+      "rank": "Dancer",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 6,
       "card": 44
     },
     {
@@ -455,6 +455,38 @@
       "phrase": "",
       "banner": 0,
       "card": 5
+    },
+    {
+      "id": "dancer11",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 50
+    },
+    {
+      "id": "dancer12",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 51
+    },
+    {
+      "id": "Inalca©",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 52
+    },
+    {
+      "id": "dancer14",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 53
     }
   ],
   "ads": [
@@ -484,7 +516,7 @@
     },
     {
       "cell": 7,
-      "phrase": "Publicidad 7 disponible"
+      "phrase": "https://carmesi115.gumroad.com/"
     },
     {
       "cell": 8,
@@ -492,7 +524,7 @@
     },
     {
       "cell": 9,
-      "phrase": "https://carmesi115.gumroad.com/"
+      "phrase": "Publicidad 7 disponible"
     }
   ]
 }
