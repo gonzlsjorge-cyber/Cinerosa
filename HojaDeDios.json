@@ -455,6 +455,38 @@
       "phrase": "",
       "banner": 0,
       "card": 5
+    },
+    {
+      "id": "dancer11",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 50
+    },
+    {
+      "id": "dancer12",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 51
+    },
+    {
+      "id": "Inalca©",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 52
+    },
+    {
+      "id": "dancer14",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 53
     }
   ],
   "ads": [

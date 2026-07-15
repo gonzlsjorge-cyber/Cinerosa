@@ -625,5 +625,49 @@
     "added": "2026-07-11",
     "expires": "",
     "photo": ""
+  },
+  {
+    "id": "dancer11",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 50,
+    "added": "2026-07-15",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "dancer12",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 51,
+    "added": "2026-07-15",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "Inalca©",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 6,
+    "card": 52,
+    "added": "2026-07-15",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "dancer14",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 53,
+    "added": "2026-07-15",
+    "expires": "",
+    "photo": ""
   }
 ]
