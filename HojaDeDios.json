@@ -5,7 +5,7 @@
       "rank": "sin rango",
       "group": "",
       "phrase": "",
-      "banner": 0,
+      "banner": 1,
       "card": 2
     },
     {
@@ -21,7 +21,7 @@
       "rank": "Vips",
       "group": "",
       "phrase": "Banco",
-      "banner": 7,
+      "banner": 3,
       "card": 9
     },
     {
@@ -29,7 +29,7 @@
       "rank": "Admin",
       "group": "",
       "phrase": "",
-      "banner": 4,
+      "banner": 3,
       "card": 15
     },
     {
@@ -85,7 +85,7 @@
       "rank": "Dancer",
       "group": "",
       "phrase": "",
-      "banner": 6,
+      "banner": 5,
       "card": 13
     },
     {
@@ -426,10 +426,10 @@
     },
     {
       "id": "dancer10",
-      "rank": "Dancer",
+      "rank": "sin rango",
       "group": "",
       "phrase": "",
-      "banner": 6,
+      "banner": 0,
       "card": 44
     },
     {
@@ -455,38 +455,6 @@
       "phrase": "",
       "banner": 0,
       "card": 5
-    },
-    {
-      "id": "dancer11",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "",
-      "banner": 6,
-      "card": 50
-    },
-    {
-      "id": "dancer12",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "",
-      "banner": 6,
-      "card": 51
-    },
-    {
-      "id": "Inalca©",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "",
-      "banner": 6,
-      "card": 52
-    },
-    {
-      "id": "dancer14",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "",
-      "banner": 6,
-      "card": 53
     }
   ],
   "ads": [
