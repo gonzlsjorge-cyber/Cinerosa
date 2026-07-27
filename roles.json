@@ -253,17 +253,6 @@
     "photo": ""
   },
   {
-    "id": "vip2",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 17,
-    "added": "2026-07-08",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "vip3",
     "rank": "sin rango",
     "group": "",
@@ -668,6 +657,17 @@
     "card": 53,
     "added": "2026-07-15",
     "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "SirRorshack",
+    "rank": "Vips",
+    "group": "",
+    "phrase": "",
+    "banner": 7,
+    "card": 17,
+    "added": "2026-07-27",
+    "expires": "2026-08-26",
     "photo": ""
   }
 ]

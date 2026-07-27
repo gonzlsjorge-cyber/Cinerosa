@@ -185,14 +185,6 @@
       "card": 16
     },
     {
-      "id": "vip2",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 17
-    },
-    {
       "id": "vip3",
       "rank": "sin rango",
       "group": "",
@@ -487,6 +479,14 @@
       "phrase": "",
       "banner": 0,
       "card": 53
+    },
+    {
+      "id": "SirRorshack",
+      "rank": "Vips",
+      "group": "",
+      "phrase": "",
+      "banner": 7,
+      "card": 17
     }
   ],
   "ads": [
