@@ -473,20 +473,20 @@
       "card": 52
     },
     {
-      "id": "dancer14",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 53
-    },
-    {
       "id": "SirRorshack",
       "rank": "Vips",
       "group": "",
       "phrase": "",
       "banner": 7,
       "card": 17
+    },
+    {
+      "id": "黒_DЯΛKØ_鬼",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 53
     }
   ],
   "ads": [
