@@ -449,14 +449,6 @@
       "card": 5
     },
     {
-      "id": "dancer11",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 50
-    },
-    {
       "id": "dancer12",
       "rank": "Dancer",
       "group": "",
@@ -487,6 +479,14 @@
       "phrase": "",
       "banner": 6,
       "card": 53
+    },
+    {
+      "id": "Violet Himiko",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 50
     }
   ],
   "ads": [

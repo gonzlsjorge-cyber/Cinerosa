@@ -616,17 +616,6 @@
     "photo": ""
   },
   {
-    "id": "dancer11",
-    "rank": "Dancer",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 50,
-    "added": "2026-07-15",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "dancer12",
     "rank": "Dancer",
     "group": "",
@@ -667,6 +656,17 @@
     "banner": 6,
     "card": 53,
     "added": "2026-07-28",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "Violet Himiko",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 6,
+    "card": 50,
+    "added": "2026-08-03",
     "expires": "",
     "photo": ""
   }
