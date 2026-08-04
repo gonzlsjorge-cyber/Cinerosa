@@ -145,14 +145,6 @@
       "card": 0
     },
     {
-      "id": "ForTodayDubs",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "Dancer",
-      "banner": 6,
-      "card": 0
-    },
-    {
       "id": "sun_yon",
       "rank": "Dancer",
       "group": "",
@@ -377,7 +369,7 @@
       "card": 41
     },
     {
-      "id": "dancer8",
+      "id": "dancer9",
       "rank": "sin rango",
       "group": "",
       "phrase": "",
@@ -385,39 +377,7 @@
       "card": 42
     },
     {
-      "id": "dancer9",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 43
-    },
-    {
       "id": "foro de alianza cinerosa",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 45
-    },
-    {
-      "id": "foto de alianza velvet dusk",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 46
-    },
-    {
-      "id": "foto de alianza la corte de los curvos",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 47
-    },
-    {
-      "id": "dancer10",
       "rank": "sin rango",
       "group": "",
       "phrase": "",
@@ -425,12 +385,36 @@
       "card": 44
     },
     {
+      "id": "foto de alianza velvet dusk",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 45
+    },
+    {
+      "id": "foto de alianza la corte de los curvos",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 46
+    },
+    {
+      "id": "dancer10",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 43
+    },
+    {
       "id": "open night entrada",
       "rank": "sin rango",
       "group": "",
       "phrase": "",
       "banner": 0,
-      "card": 48
+      "card": 47
     },
     {
       "id": "imagen en zona dancer",
@@ -438,7 +422,7 @@
       "group": "",
       "phrase": "",
       "banner": 0,
-      "card": 49
+      "card": 48
     },
     {
       "id": "seguridad disponible 5",
@@ -454,7 +438,7 @@
       "group": "",
       "phrase": "",
       "banner": 0,
-      "card": 51
+      "card": 50
     },
     {
       "id": "Inalca©",
@@ -462,7 +446,7 @@
       "group": "",
       "phrase": "",
       "banner": 6,
-      "card": 52
+      "card": 51
     },
     {
       "id": "SirRorshack",
@@ -478,7 +462,7 @@
       "group": "",
       "phrase": "",
       "banner": 6,
-      "card": 53
+      "card": 52
     },
     {
       "id": "Violet Himiko",
@@ -486,7 +470,15 @@
       "group": "",
       "phrase": "",
       "banner": 6,
-      "card": 50
+      "card": 49
+    },
+    {
+      "id": "ForTodayDubs",
+      "rank": "Dancer",
+      "group": "",
+      "phrase": "",
+      "banner": 6,
+      "card": 42
     }
   ],
   "ads": [

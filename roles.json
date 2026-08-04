@@ -198,17 +198,6 @@
     "photo": ""
   },
   {
-    "id": "ForTodayDubs",
-    "rank": "Dancer",
-    "group": "",
-    "phrase": "Dancer",
-    "banner": 6,
-    "card": 0,
-    "added": "2026-07-01",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "sun_yon",
     "rank": "Dancer",
     "group": "",
@@ -517,7 +506,7 @@
     "photo": ""
   },
   {
-    "id": "dancer8",
+    "id": "dancer9",
     "rank": "sin rango",
     "group": "",
     "phrase": "",
@@ -528,51 +517,7 @@
     "photo": ""
   },
   {
-    "id": "dancer9",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 43,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "foro de alianza cinerosa",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 45,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
-    "id": "foto de alianza velvet dusk",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 46,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
-    "id": "foto de alianza la corte de los curvos",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 47,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
-    "id": "dancer10",
     "rank": "sin rango",
     "group": "",
     "phrase": "",
@@ -583,12 +528,45 @@
     "photo": ""
   },
   {
+    "id": "foto de alianza velvet dusk",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 45,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "foto de alianza la corte de los curvos",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 46,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "dancer10",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 43,
+    "added": "2026-07-09",
+    "expires": "",
+    "photo": ""
+  },
+  {
     "id": "open night entrada",
     "rank": "sin rango",
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 48,
+    "card": 47,
     "added": "2026-07-09",
     "expires": "",
     "photo": ""
@@ -599,7 +577,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 49,
+    "card": 48,
     "added": "2026-07-09",
     "expires": "",
     "photo": ""
@@ -621,7 +599,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 51,
+    "card": 50,
     "added": "2026-07-15",
     "expires": "",
     "photo": ""
@@ -632,7 +610,7 @@
     "group": "",
     "phrase": "",
     "banner": 6,
-    "card": 52,
+    "card": 51,
     "added": "2026-07-15",
     "expires": "",
     "photo": ""
@@ -654,7 +632,7 @@
     "group": "",
     "phrase": "",
     "banner": 6,
-    "card": 53,
+    "card": 52,
     "added": "2026-07-28",
     "expires": "",
     "photo": ""
@@ -665,8 +643,19 @@
     "group": "",
     "phrase": "",
     "banner": 6,
-    "card": 50,
+    "card": 49,
     "added": "2026-08-03",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "ForTodayDubs",
+    "rank": "Dancer",
+    "group": "",
+    "phrase": "",
+    "banner": 6,
+    "card": 42,
+    "added": "2026-08-04",
     "expires": "",
     "photo": ""
   }
