@@ -137,14 +137,6 @@
       "card": 0
     },
     {
-      "id": "Noimosyni",
-      "rank": "Dancer",
-      "group": "",
-      "phrase": "Dancer",
-      "banner": 6,
-      "card": 0
-    },
-    {
       "id": "sun_yon",
       "rank": "Dancer",
       "group": "",
@@ -361,14 +353,6 @@
       "card": 40
     },
     {
-      "id": "dancer7",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 41
-    },
-    {
       "id": "dancer9",
       "rank": "sin rango",
       "group": "",
@@ -479,6 +463,14 @@
       "phrase": "",
       "banner": 6,
       "card": 42
+    },
+    {
+      "id": "dancer7",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 41
     }
   ],
   "ads": [

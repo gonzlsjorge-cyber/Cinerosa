@@ -187,17 +187,6 @@
     "photo": ""
   },
   {
-    "id": "Noimosyni",
-    "rank": "Dancer",
-    "group": "",
-    "phrase": "Dancer",
-    "banner": 6,
-    "card": 0,
-    "added": "2026-07-01",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "sun_yon",
     "rank": "Dancer",
     "group": "",
@@ -495,17 +484,6 @@
     "photo": ""
   },
   {
-    "id": "dancer7",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 41,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "dancer9",
     "rank": "sin rango",
     "group": "",
@@ -656,6 +634,17 @@
     "banner": 6,
     "card": 42,
     "added": "2026-08-04",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "dancer7",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 41,
+    "added": "2026-08-19",
     "expires": "",
     "photo": ""
   }
