@@ -369,14 +369,6 @@
       "card": 45
     },
     {
-      "id": "foto de alianza velvet dusk",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 46
-    },
-    {
       "id": "foto de alianza la corte de los curvos",
       "rank": "sin rango",
       "group": "",
@@ -471,6 +463,14 @@
       "phrase": "",
       "banner": 0,
       "card": 41
+    },
+    {
+      "id": "fondo de cinerosa 2",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 46
     }
   ],
   "ads": [

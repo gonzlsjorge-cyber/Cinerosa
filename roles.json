@@ -506,17 +506,6 @@
     "photo": ""
   },
   {
-    "id": "foto de alianza velvet dusk",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 46,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "foto de alianza la corte de los curvos",
     "rank": "sin rango",
     "group": "",
@@ -645,6 +634,17 @@
     "banner": 0,
     "card": 41,
     "added": "2026-08-19",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "fondo de cinerosa 2",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 46,
+    "added": "2026-08-20",
     "expires": "",
     "photo": ""
   }
