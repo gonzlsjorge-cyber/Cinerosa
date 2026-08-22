@@ -7,7 +7,7 @@
     "banner": 1,
     "card": 2,
     "added": "2026-06-30",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -18,7 +18,7 @@
     "banner": 3,
     "card": 1,
     "added": "2026-06-30",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -29,7 +29,7 @@
     "banner": 3,
     "card": 9,
     "added": "2026-06-30",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -40,7 +40,7 @@
     "banner": 2,
     "card": 15,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -51,7 +51,7 @@
     "banner": 4,
     "card": 10,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -62,7 +62,7 @@
     "banner": 4,
     "card": 3,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -73,7 +73,7 @@
     "banner": 5,
     "card": 4,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -84,7 +84,7 @@
     "banner": 5,
     "card": 6,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -95,18 +95,7 @@
     "banner": 5,
     "card": 7,
     "added": "2026-07-01",
-    "expires": "",
-    "photo": ""
-  },
-  {
-    "id": "Nazalosh",
-    "rank": "Seguridad",
-    "group": "",
-    "phrase": "",
-    "banner": 5,
-    "card": 8,
-    "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -117,7 +106,7 @@
     "banner": 5,
     "card": 13,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -128,7 +117,7 @@
     "banner": 5,
     "card": 11,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -139,7 +128,7 @@
     "banner": 5,
     "card": 12,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -150,7 +139,7 @@
     "banner": 6,
     "card": 0,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -161,7 +150,7 @@
     "banner": 6,
     "card": 0,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -172,7 +161,7 @@
     "banner": 6,
     "card": 0,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -183,7 +172,7 @@
     "banner": 6,
     "card": 0,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -194,7 +183,7 @@
     "banner": 6,
     "card": 0,
     "added": "2026-07-01",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -205,7 +194,7 @@
     "banner": 8,
     "card": 0,
     "added": "2026-07-04",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -216,7 +205,7 @@
     "banner": 5,
     "card": 14,
     "added": "2026-07-07",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -227,7 +216,7 @@
     "banner": 7,
     "card": 16,
     "added": "2026-07-08",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -238,7 +227,7 @@
     "banner": 0,
     "card": 18,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -249,7 +238,7 @@
     "banner": 0,
     "card": 19,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -260,7 +249,7 @@
     "banner": 0,
     "card": 20,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -271,7 +260,7 @@
     "banner": 0,
     "card": 21,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -282,7 +271,7 @@
     "banner": 0,
     "card": 22,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -293,7 +282,7 @@
     "banner": 0,
     "card": 23,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -304,7 +293,7 @@
     "banner": 0,
     "card": 24,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -315,7 +304,7 @@
     "banner": 0,
     "card": 25,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -326,7 +315,7 @@
     "banner": 0,
     "card": 26,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -337,7 +326,7 @@
     "banner": 0,
     "card": 27,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -348,7 +337,7 @@
     "banner": 0,
     "card": 28,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -359,7 +348,7 @@
     "banner": 0,
     "card": 29,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -370,7 +359,7 @@
     "banner": 0,
     "card": 30,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -381,7 +370,7 @@
     "banner": 0,
     "card": 31,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -392,7 +381,7 @@
     "banner": 0,
     "card": 32,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -403,7 +392,7 @@
     "banner": 0,
     "card": 33,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -414,7 +403,7 @@
     "banner": 0,
     "card": 34,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -425,7 +414,7 @@
     "banner": 0,
     "card": 35,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -436,7 +425,7 @@
     "banner": 0,
     "card": 36,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -447,7 +436,7 @@
     "banner": 0,
     "card": 37,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -458,7 +447,7 @@
     "banner": 0,
     "card": 38,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -469,7 +458,7 @@
     "banner": 0,
     "card": 39,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -480,7 +469,7 @@
     "banner": 0,
     "card": 40,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -491,7 +480,7 @@
     "banner": 0,
     "card": 43,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -502,7 +491,7 @@
     "banner": 0,
     "card": 45,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -513,7 +502,7 @@
     "banner": 0,
     "card": 47,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -524,7 +513,7 @@
     "banner": 0,
     "card": 44,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -535,7 +524,7 @@
     "banner": 0,
     "card": 48,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -546,7 +535,7 @@
     "banner": 0,
     "card": 49,
     "added": "2026-07-09",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -557,7 +546,7 @@
     "banner": 0,
     "card": 5,
     "added": "2026-07-11",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -568,7 +557,7 @@
     "banner": 0,
     "card": 51,
     "added": "2026-07-15",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -579,7 +568,7 @@
     "banner": 6,
     "card": 52,
     "added": "2026-07-15",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -601,7 +590,7 @@
     "banner": 6,
     "card": 53,
     "added": "2026-07-28",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -612,7 +601,7 @@
     "banner": 6,
     "card": 50,
     "added": "2026-08-03",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -623,7 +612,7 @@
     "banner": 6,
     "card": 42,
     "added": "2026-08-04",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -634,7 +623,7 @@
     "banner": 0,
     "card": 41,
     "added": "2026-08-19",
-    "expires": "",
+    "expires": "2026-09-21",
     "photo": ""
   },
   {
@@ -645,7 +634,29 @@
     "banner": 0,
     "card": 46,
     "added": "2026-08-20",
+    "expires": "2026-09-21",
+    "photo": ""
+  },
+  {
+    "id": "Exvatorres96~",
+    "rank": "Seguridad",
+    "group": "",
+    "phrase": "",
+    "banner": 5,
+    "card": 0,
+    "added": "2026-08-22",
     "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "seguridad 8 dis",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 8,
+    "added": "2026-08-22",
+    "expires": "2026-09-21",
     "photo": ""
   }
 ]

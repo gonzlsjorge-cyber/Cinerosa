@@ -73,14 +73,6 @@
       "card": 7
     },
     {
-      "id": "Nazalosh",
-      "rank": "Seguridad",
-      "group": "",
-      "phrase": "",
-      "banner": 5,
-      "card": 8
-    },
-    {
       "id": "Killery kitten",
       "rank": "Dancer",
       "group": "",
@@ -471,6 +463,22 @@
       "phrase": "",
       "banner": 0,
       "card": 46
+    },
+    {
+      "id": "Exvatorres96~",
+      "rank": "Seguridad",
+      "group": "",
+      "phrase": "",
+      "banner": 5,
+      "card": 0
+    },
+    {
+      "id": "seguridad 8 dis",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 8
     }
   ],
   "ads": [
