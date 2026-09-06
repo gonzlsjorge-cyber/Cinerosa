@@ -217,14 +217,6 @@
       "card": 24
     },
     {
-      "id": "vip10",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 25
-    },
-    {
       "id": "vip11",
       "rank": "sin rango",
       "group": "",
@@ -479,6 +471,14 @@
       "phrase": "",
       "banner": 0,
       "card": 46
+    },
+    {
+      "id": "Blackoxid",
+      "rank": "Vips",
+      "group": "",
+      "phrase": "",
+      "banner": 7,
+      "card": 25
     }
   ],
   "ads": [

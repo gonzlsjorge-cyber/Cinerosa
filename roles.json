@@ -297,17 +297,6 @@
     "photo": ""
   },
   {
-    "id": "vip10",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 25,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "vip11",
     "rank": "sin rango",
     "group": "",
@@ -657,6 +646,17 @@
     "card": 46,
     "added": "2026-09-06",
     "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "Blackoxid",
+    "rank": "Vips",
+    "group": "",
+    "phrase": "",
+    "banner": 7,
+    "card": 25,
+    "added": "2026-09-06",
+    "expires": "2026-10-06",
     "photo": ""
   }
 ]
