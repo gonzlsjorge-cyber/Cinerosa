@@ -385,17 +385,6 @@
     "photo": ""
   },
   {
-    "id": "vip19",
-    "rank": "sin rango",
-    "group": "",
-    "phrase": "",
-    "banner": 0,
-    "card": 34,
-    "added": "2026-07-09",
-    "expires": "",
-    "photo": ""
-  },
-  {
     "id": "dancer1",
     "rank": "sin rango",
     "group": "",
@@ -654,9 +643,20 @@
     "group": "",
     "phrase": "",
     "banner": 7,
-    "card": 25,
+    "card": 34,
     "added": "2026-09-06",
     "expires": "2026-10-06",
+    "photo": ""
+  },
+  {
+    "id": "vips19",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 25,
+    "added": "2026-09-06",
+    "expires": "",
     "photo": ""
   }
 ]

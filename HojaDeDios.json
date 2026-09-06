@@ -281,14 +281,6 @@
       "card": 33
     },
     {
-      "id": "vip19",
-      "rank": "sin rango",
-      "group": "",
-      "phrase": "",
-      "banner": 0,
-      "card": 34
-    },
-    {
       "id": "dancer1",
       "rank": "sin rango",
       "group": "",
@@ -478,6 +470,14 @@
       "group": "",
       "phrase": "",
       "banner": 7,
+      "card": 34
+    },
+    {
+      "id": "vips19",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
       "card": 25
     }
   ],
