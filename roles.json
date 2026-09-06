@@ -632,7 +632,7 @@
     "group": "",
     "phrase": "",
     "banner": 0,
-    "card": 46,
+    "card": 54,
     "added": "2026-08-20",
     "expires": "",
     "photo": ""
@@ -656,6 +656,17 @@
     "banner": 0,
     "card": 8,
     "added": "2026-08-22",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "foto de alianza de after hours",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 46,
+    "added": "2026-09-06",
     "expires": "",
     "photo": ""
   }
