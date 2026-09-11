@@ -3,11 +3,7 @@
   "card_rows": 4,
   "ads_cols": 4,
   "ads_rows": 2,
-  "ad_phrases": [
-    "Discord liarfps",
-    "Apoyo mensual",
-    "Face tracking"
-  ],
+  "ad_phrases": [],
   "banner_cols": 4,
   "banner_rows": 4,
   "card_filler": "",

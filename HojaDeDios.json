@@ -481,18 +481,5 @@
       "card": 25
     }
   ],
-  "ads": [
-    {
-      "cell": 1,
-      "phrase": "Discord liarfps"
-    },
-    {
-      "cell": 2,
-      "phrase": "Apoyo mensual"
-    },
-    {
-      "cell": 3,
-      "phrase": "Face tracking"
-    }
-  ]
+  "ads": []
 }
