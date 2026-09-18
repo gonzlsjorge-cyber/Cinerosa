@@ -5,7 +5,7 @@
       "rank": "sin rango",
       "group": "",
       "phrase": "",
-      "banner": 1,
+      "banner": 9,
       "card": 2
     },
     {
@@ -487,6 +487,14 @@
       "phrase": "",
       "banner": 0,
       "card": 54
+    },
+    {
+      "id": "JhonnyBoy7u7",
+      "rank": "Vips",
+      "group": "",
+      "phrase": "",
+      "banner": 9,
+      "card": 0
     }
   ],
   "ads": []

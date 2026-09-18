@@ -4,7 +4,7 @@
     "rank": "sin rango",
     "group": "",
     "phrase": "",
-    "banner": 1,
+    "banner": 9,
     "card": 2,
     "added": "2026-06-30",
     "expires": "",
@@ -666,6 +666,17 @@
     "phrase": "",
     "banner": 0,
     "card": 54,
+    "added": "2026-09-18",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "JhonnyBoy7u7",
+    "rank": "Vips",
+    "group": "",
+    "phrase": "",
+    "banner": 9,
+    "card": 0,
     "added": "2026-09-18",
     "expires": "",
     "photo": ""
