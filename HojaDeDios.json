@@ -401,14 +401,6 @@
       "card": 52
     },
     {
-      "id": "SirRorshack",
-      "rank": "Vips",
-      "group": "",
-      "phrase": "",
-      "banner": 7,
-      "card": 17
-    },
-    {
       "id": "黒_DЯΛKØ_鬼",
       "rank": "Dancer",
       "group": "",
@@ -495,6 +487,14 @@
       "phrase": "",
       "banner": 9,
       "card": 0
+    },
+    {
+      "id": "vip2",
+      "rank": "sin rango",
+      "group": "",
+      "phrase": "",
+      "banner": 0,
+      "card": 17
     }
   ],
   "ads": []

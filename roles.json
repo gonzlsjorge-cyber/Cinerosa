@@ -550,17 +550,6 @@
     "photo": ""
   },
   {
-    "id": "SirRorshack",
-    "rank": "Vips",
-    "group": "",
-    "phrase": "",
-    "banner": 7,
-    "card": 17,
-    "added": "2026-07-27",
-    "expires": "2026-09-24",
-    "photo": ""
-  },
-  {
     "id": "黒_DЯΛKØ_鬼",
     "rank": "Dancer",
     "group": "",
@@ -678,6 +667,17 @@
     "banner": 9,
     "card": 0,
     "added": "2026-09-18",
+    "expires": "",
+    "photo": ""
+  },
+  {
+    "id": "vip2",
+    "rank": "sin rango",
+    "group": "",
+    "phrase": "",
+    "banner": 0,
+    "card": 17,
+    "added": "2026-10-08",
     "expires": "",
     "photo": ""
   }
